@@ -4,10 +4,6 @@
   💻 Developer | 🎮 Game Jam Enthusiast | 🤖 Creator of Friendly AI
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="200" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -77,6 +73,5 @@ Smart move systems for Checkers, Tic-Tac-Toe and more, all coded from scratch.
 - 🤝 Always open to learning, collaboration, and cool ideas!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 <a href="https://www.linkedin.com/in/leojosé/" target="_blank" rel="noopener noreferrer">Meu LinkedIn</a>
 </p>
