@@ -73,5 +73,6 @@ Smart move systems for Checkers, Tic-Tac-Toe and more, all coded from scratch.
 - 🤝 Always open to learning, collaboration, and cool ideas!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/leojosé/" target="_blank" rel="noopener noreferrer">Meu LinkedIn</a>
+<a href="https://www.linkedin.com/in/leojosé/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  <a href="  https://wanderluzter.itch.io" target="_blank" rel="noopener noreferrer">Itch.io</a>
 </p>
