@@ -1,16 +1,14 @@
 <h1 align="center">Hey there, I'm Leonardo! 👋</h1>
 
 <p align="center">
-  💻 Developer | 🎮 Game Jam Enthusiast | 🚀 Always Learning
+  💻 Developer | 🎮 Game Jammer | 📖 Reader | 🎵 Listener | 🎞️ Watcher
 </p>
 
 ---
 
-## 🚀 About Me
+## About 
 
-- Currently diving into: Docker, DevOps with Azure, Arduino, Mobile Dev with React + TypeScript, and ASP.NET  
-- I love building things from scratch — from games to full systems  
-- Teamwork, clean code, and solving problems creatively are my thing  
+- Currently leraning: Docker, DevOps with Azure, Arduino, Mobile Dev with React + TypeScript, and ASP.NET  
 
 ---
 
@@ -46,16 +44,11 @@
 
 ---
 
-## 🎯 Fun Facts
-
-- I enjoy learning by building real things (and breaking a few along the way 😅)  
-- Game Jams taught me more than any tutorial ever could  
-- I believe in simple, useful, and creative tech
-- Art is fuel for our soul
+## Art is fuel for our soul
 
 ---
 
-## 📫 Let's Connect!
+## Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leojosé/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
