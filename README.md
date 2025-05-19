@@ -8,7 +8,9 @@
 
 ## About 
 
-- Currently leraning: Docker, DevOps with Azure, Arduino, Mobile Dev with React + TypeScript, and ASP.NET  
+- Currently learning: Docker, DevOps with Azure, Arduino, Mobile Dev with React + TypeScript, and ASP.NET
+- I love technology and the things we can build with it.
+- Always trying to be better.
 
 ---
 
@@ -43,7 +45,7 @@
 
 ---
 
-## Art is fuel for our soul
+## Art is fuel for the soul.
 
 ---
 
