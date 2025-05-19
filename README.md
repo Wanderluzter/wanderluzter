@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <br><br>
   <img src="https://img.shields.io/badge/Game%20Jam%20Survivor-%F0%9F%8E%B2-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino%20Lover-%F0%9F%94%A5-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-success?style=for-the-badge" />
 </div>
 
